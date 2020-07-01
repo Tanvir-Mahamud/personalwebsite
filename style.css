@@ -1,0 +1,159 @@
+body{
+    margin: 0px;
+    padding: 0px;
+
+}
+
+.header{
+    background-image: url(images/header-bg.png);
+    background-repeat: no-repeat;
+    height: 600px;
+    
+    overflow: hidden;
+    margin-bottom: 20px;
+    
+   
+}
+.header-right{
+    width:40%;
+    height:600px ;
+    float: left;
+    margin-left: 175px;
+    margin-top: 10px;
+
+
+}
+.header-right img{
+    width: 100%;
+    height:500px;
+    
+    
+}
+.header-left{
+    width:40%;
+    height:600px;
+    float: left;
+    margin-left: 50px;
+    margin-top: 60px;
+}
+.header .header-left h1{
+    color:rgb(209, 32, 62);
+}
+.header .header-left a{
+    text-decoration: none;
+    width: 50px;
+    height: auto;
+    color:white; 
+    background-color:rgb(209, 32, 62);
+    padding: 6px;
+    border-radius: 5px;
+    margin-top: 15px;
+}
+.biograp{
+background-image: url(images/biography-bg.png);
+background-repeat: no-repeat;
+height: 600px;
+
+margin-bottom: 10px;
+
+}
+.biograp-left{
+    height: 100%;
+    width: 40%;
+    float: left;
+    margin-left: 110px;
+    margin-top: 10px;
+    
+}
+.biograp-right{
+    height: 100%;
+    width: 40%;
+    float: left;
+    margin-top: 60px;
+}
+.biograp-left img{
+    height: 450px;
+    margin-top: 35px;
+}
+.biograp-right a{
+    text-decoration: none;
+    width: 50px;
+    height: auto;
+    color:white; 
+    background-color:rgb(209, 32, 62);
+    padding: 6px;
+    border-radius: 5px;
+    margin-top: 15px;
+}
+
+.work{
+    
+    height: 600px;
+    
+    
+    margin-bottom: 20px;
+    position: relative;
+    
+   
+}
+.work h2{
+    text-align: center;
+    width: 100%;
+    margin-bottom: 10px;
+    position: absolute;
+    right: 0px;
+    left: 0px;
+    
+    
+}
+.work-demo{
+    width: 30%;
+    height: 500px;
+    float:left;
+    margin-left: 10px;
+    margin-right:5px ;
+    margin-top: 10px;
+}
+.work-demo img{
+    height: 100%;
+    width: 100%;
+    float:left;
+}
+.client{
+    background-image: url(images/footer-bg.png);
+    height: 500px;
+    
+    
+    margin-bottom: 20px;
+    position: relative;
+    
+    
+    
+
+
+}
+
+
+.client h2, h3, h4, p  {
+    text-align: center;
+    margin: auto;
+    width: 30%;
+    
+   
+}
+.client a{
+margin-left:540px ;
+width: 270px;
+padding: 5px;
+border-radius: 3px;
+background-color: rgb(209, 32, 62);
+display: block;
+text-decoration: none;
+text-align: center;
+margin-top: 15px;
+}
+.client h2{
+    margin-top: 100px;
+}
+
+
